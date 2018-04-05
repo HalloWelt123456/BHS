@@ -19,7 +19,7 @@ import android.widget.Toast;
 /**
  * Created by 52tade1bwi on 28.03.2018.
  */
-
+// Test
 public class BT_Activity extends MainActivity {
 
 
